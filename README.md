@@ -7,5 +7,5 @@
 
 <code>🧑‍💻 Languages: JavaScript, Kotlin, C</code>
 
-<code>💬 telegram: [@I0_Jesus_0l](https://telegram.me/your-nikname](https://t.me/dvskiii))</code>
+<code>💬 telegram: [@dvskiii](https://t.me/dvskiii)</code>
 <code>📫 [antony.dovzhenko@gmail.com](mailto:antony.dovzhenko@gmail.com)</code>
